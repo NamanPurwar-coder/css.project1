@@ -149,20 +149,6 @@ h5 a{
     padding: 0px 5px;
 }
 
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
-}
-
-.cross:hover {
-    color: red;
-}
-
 .addnewtask-heading {
     font-size: 18px;
     font-weight: 500;
